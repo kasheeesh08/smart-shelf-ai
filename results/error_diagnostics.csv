@@ -1,0 +1,7 @@
+Model,Diagnostic,Count
+YOLOv8n,Unmatched prediction,3
+YOLOv8n,Missed ground truth,5
+YOLOv8n,Wrong-class overlap,2
+RF-DETR,Wrong-class overlap,3
+RF-DETR,Missed ground truth,8
+RF-DETR,Unmatched prediction,1

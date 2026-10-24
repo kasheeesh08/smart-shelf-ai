@@ -1,0 +1,35 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Jupyter temporary files and checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary outputs
+*.log
+tmp/
+temp/
+
+# Raw datasets and generated training artifacts
+datasets/
+runs/
+train/
+valid/
+test/
+
+# Operating system files
+.DS_Store
+Thumbs.db

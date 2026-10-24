@@ -1,0 +1,23 @@
+Image,Model,GT,Predictions,TP,FP,FN,Wrong-class overlaps
+WhatsApp-Image-2026-10-21-at-6-48-04-PM-2-_jpeg.rf.31fc9dbf9ce7762dd02f85bcdc2adb14.jpg,YOLOv8n,1,1,1,0,0,0
+WhatsApp-Image-2026-10-21-at-6-48-04-PM-2-_jpeg.rf.31fc9dbf9ce7762dd02f85bcdc2adb14.jpg,RF-DETR,1,1,1,0,0,0
+WhatsApp-Image-2026-10-21-at-6-48-05-PM-2-_jpeg.rf.b048fdc8941667d6d6bb4ebbe933a488.jpg,YOLOv8n,1,2,1,1,0,0
+WhatsApp-Image-2026-10-21-at-6-48-05-PM-2-_jpeg.rf.b048fdc8941667d6d6bb4ebbe933a488.jpg,RF-DETR,1,1,1,0,0,0
+WhatsApp-Image-2026-10-21-at-6-48-07-PM-1-_jpeg.rf.52dd2fb14d61e2cb20c1edb2858c78dc.jpg,YOLOv8n,1,1,1,0,0,0
+WhatsApp-Image-2026-10-21-at-6-48-07-PM-1-_jpeg.rf.52dd2fb14d61e2cb20c1edb2858c78dc.jpg,RF-DETR,1,1,1,0,0,0
+WhatsApp-Image-2026-10-21-at-6-48-09-PM-3-_jpeg.rf.571d5c7654ce5587c2bbb69211f5f002.jpg,YOLOv8n,1,1,1,0,0,0
+WhatsApp-Image-2026-10-21-at-6-48-09-PM-3-_jpeg.rf.571d5c7654ce5587c2bbb69211f5f002.jpg,RF-DETR,1,1,0,1,1,1
+WhatsApp-Image-2026-10-21-at-6-48-15-PM-3-_jpeg.rf.fe13ae275909da79d965831458b10183.jpg,YOLOv8n,1,1,1,0,0,0
+WhatsApp-Image-2026-10-21-at-6-48-15-PM-3-_jpeg.rf.fe13ae275909da79d965831458b10183.jpg,RF-DETR,1,0,0,0,1,0
+WhatsApp-Image-2026-10-21-at-6-48-15-PM_jpeg.rf.99430a59c8ed519f2045b5bae7bdc251.jpg,YOLOv8n,1,1,1,0,0,0
+WhatsApp-Image-2026-10-21-at-6-48-15-PM_jpeg.rf.99430a59c8ed519f2045b5bae7bdc251.jpg,RF-DETR,1,1,1,0,0,0
+WhatsApp-Image-2026-10-21-at-6-48-17-PM-2-_jpeg.rf.49a71ff9bd84b44023cd2d957e591d52.jpg,YOLOv8n,1,1,1,0,0,0
+WhatsApp-Image-2026-10-21-at-6-48-17-PM-2-_jpeg.rf.49a71ff9bd84b44023cd2d957e591d52.jpg,RF-DETR,1,1,0,1,1,1
+WhatsApp-Image-2026-10-21-at-6-54-35-PM-1-_jpeg.rf.eb81905be40754f8c626ae33ecf0af3d.jpg,YOLOv8n,4,3,3,0,1,0
+WhatsApp-Image-2026-10-21-at-6-54-35-PM-1-_jpeg.rf.eb81905be40754f8c626ae33ecf0af3d.jpg,RF-DETR,4,3,3,0,1,0
+WhatsApp-Image-2026-10-21-at-6-54-36-PM-1-_jpeg.rf.370b612ff58623ca6466cb562f5c6241.jpg,YOLOv8n,4,3,3,0,1,0
+WhatsApp-Image-2026-10-21-at-6-54-36-PM-1-_jpeg.rf.370b612ff58623ca6466cb562f5c6241.jpg,RF-DETR,4,3,3,0,1,0
+WhatsApp-Image-2026-10-21-at-6-54-38-PM-1-_jpeg.rf.d364952eea13dae7f1fc91b59f87b608.jpg,YOLOv8n,7,6,5,1,2,1
+WhatsApp-Image-2026-10-21-at-6-54-38-PM-1-_jpeg.rf.d364952eea13dae7f1fc91b59f87b608.jpg,RF-DETR,7,5,5,0,2,0
+WhatsApp-Image-2026-10-21-at-6-54-39-PM-1-_jpeg.rf.98f7416de2d06a3b70ed7398bacc8a35.jpg,YOLOv8n,4,6,3,3,1,1
+WhatsApp-Image-2026-10-21-at-6-54-39-PM-1-_jpeg.rf.98f7416de2d06a3b70ed7398bacc8a35.jpg,RF-DETR,4,5,3,2,1,1
