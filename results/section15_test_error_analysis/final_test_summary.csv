@@ -1,0 +1,2 @@
+precision,recall,mAP50,mAP50_95,test_images,ground_truth_objects,correct_detections,wrong_class_detections,missed_objects,extra_predictions,confidence_threshold,diagnostic_iou_threshold
+0.8312,0.8915,0.9322,0.6413,11,26,21,1,4,4,0.25,0.5
